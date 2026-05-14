@@ -2,8 +2,6 @@
 
 Eine einfache Streamlit-App zur Übersicht von Vorsorgeuntersuchungen für zwei Personen:
 
-- Mann, 64 Jahre
-- Frau, 57 Jahre
 
 Die App berechnet automatisch den nächsten Termin aus der letzten Durchführung und dem Intervall in Monaten. Überfällige Untersuchungen werden farblich markiert.
 In der Kalenderansicht werden bisherige und anstehende Untersuchungen nach Jahr und Monat angezeigt.
