@@ -1,0 +1,26 @@
+Untersuchung,Person,Kategorie,Priorität,Letzte Durchführung,Intervall in Monaten,Status,Kommentar
+Großes Blutbild,Frau,Hausarzt,sehr hoch,2026-03-11,12,offen,Cholesterin Blutzucker Schilddrüse
+Hautkrebs-Screening Doktor,Frau,Krebsfrüherkennung,sehr hoch,2020-06-20,24,überfällig,Ab 35 alle zwei Jahre
+Darmkrebs-Früherkennung Stuhltest,Frau,Krebsfrüherkennung,hoch,2006-06-05,12,überfällig,"Jährlicher immunologischer Stuhltest als Alternative, wenn keine Darmspiegelung erfolgt; bei positivem Test ist eine Darmspiegelung erforderlich."
+Mammographie,Frau,Krebsfrüherkennung,sehr hoch,2006-06-18,24,überfällig,Mammographie-Screening für Frauen von 50 bis 75 Jahren alle zwei Jahre; ersetzt nicht die ärztliche Abklärung bei tastbarem Knoten oder Beschwerden.
+Gynäkologische Krebsfrüherkennung,Frau,Krebsfrüherkennung,sehr hoch,2003-02-12,12,überfällig,Jährliche gynäkologische Vorsorge inklusive Brust-/Genitaluntersuchung; HPV/Pap-Kombitest ab 35 in der Regel alle 3 Jahre bzw. nach Befund.
+Augenuntersuchung Umfassend,Frau,Augenarzt,sehr hoch,2024-02-09,12,überfällig,Sehschärfe Augeninnendruck Netzhaut
+Hautkrebs-Screening App,Frau,Zusatzdiagnostik,mittel,2025-10-01,12,offen,Nach aktueller Empfehlung mit Arzt besprechen
+Tetanus Diphtherie Pertussis,Frau,Impfung,hoch,2024-07-21,120,offen,Auffrischung Tetanus/Diphtherie alle 10 Jahre; Pertussis einmalig bzw. nach ärztlicher Empfehlung mit auffrischen.
+Erweiterter Herz-Kreislauf-Laborblock,Frau,Hausarzt,hoch,2001-06-14,24,überfällig,"Ergänzend zu Standard-Blutfetten: ApoB, Lipoprotein(a) einmalig, ggf. hs-CRP/Schilddrüse nach Risiko; dient zur besseren Einschätzung von Herzinfarkt- und Schlaganfallrisiko."
+Ganzkörper MRT,Frau,Zusatzdiagnostik,sehr hoch,1999-02-14,36,überfällig,
+HPV/Pap-Kombitest,Frau,Krebsfrüherkennung,sehr hoch,2008-02-14,36,überfällig,"Gebärmutterhalskrebs-Früherkennung; ab 35 in der Regel alle 3 Jahre, bei auffälligem Befund nach ärztlicher Empfehlung früher."
+Großes Blutbild,Mann,Hausarzt,sehr hoch,2026-02-15,12,offen,"Allgemeiner Gesundheitscheck mit Blutdruck, Gewicht, Medikamentencheck, Herz-Kreislauf-Risiko, Blutbild, Leber-/Nierenwerten, Blutzucker/HbA1c, Blutfetten und Urinstatus."
+Erweiterter Herz-Kreislauf-Laborblock,Mann,Herz-Kreislauf,sehr hoch,2025-11-20,24,offen,"Ergänzend zu Standard-Blutfetten: ApoB, Lipoprotein(a) einmalig, ggf. hs-CRP und Schilddrüse nach Risiko. Besonders sinnvoll zur besseren Einschätzung des Herzinfarkt- und Schlaganfallrisikos."
+Hautarzt-Screening App,Mann,Zusatzdiagnostik,hoch,2024-02-20,12,überfällig,Ergänzende Selbstkontrolle auffälliger Muttermale; ersetzt kein ärztliches Hautkrebs-Screening.
+Hautkrebs-Screening Doktor,Mann,Krebsfrüherkennung,sehr hoch,2024-02-02,24,überfällig,Ab 35 alle zwei Jahre
+Darmspiegelung,Mann,Krebsfrüherkennung,sehr hoch,2026-04-02,36,offen,Koloskopie nach zehn Jahren wiederholen
+Prostata-Früherkennung,Mann,Krebsfrüherkennung,sehr hoch,2026-02-15,12,offen,Jährliche urologische Früherkennung ab 45; PSA-Wert zusätzlich nur nach Aufklärung und individueller Entscheidung.
+Augenuntersuchung (Hintergrundbild),Mann,Augenarzt,hoch,2024-06-05,12,überfällig,"Sehschärfe, Augeninnendruck/Glaukom-Risiko, Netzhaut und grauer Star; bei Diabetes, Bluthochdruck, starker Kurzsichtigkeit oder Beschwerden häufiger."
+Kardiologie-Check,Mann,Herz-Kreislauf,sehr hoch,2013-06-01,24,überfällig,"Ruhe-EKG, ggf. Herzultraschall und Belastungsdiagnostik bei Bluthochdruck, Brustdruck, Luftnot, Leistungsknick, Herzstolpern oder familiärer Vorbelastung."
+Tetanus Diphtherie Pertussis,Mann,Impfung,hoch,2019-06-21,120,offen,Auffrischung alle zehn Jahre
+Pneumokokken-Impfung,Mann,Impfung,hoch,2007-06-09,72,überfällig,Ab 60 empfohlen; Intervall mit Arzt klären
+Bauchultraschall Aorta,Mann,Zusatzdiagnostik,mittel,2026-02-19,120,erledigt,Einmaliges Screening auf Bauchaortenaneurysma für Männer ab 65; nach unauffälligem Befund normalerweise abgeschlossen.
+Ganzkörper MRT,Mann,Zusatzdiagnostik,hoch,1999-06-14,36,überfällig,
+Koronarkalk-Score / Cardio-CT,Mann,Zusatzdiagnostik,mittel,2000-02-14,72,überfällig,Optional bei mittlerem oder unklarem Herz-Kreislauf-Risiko; zeigt Verkalkungen der Herzkranzgefäße und kann die Risikoeinschätzung verbessern.
+Koronarkalk-Score / Cardio-CT,Frau,Zusatzdiagnostik,mittel,2000-06-14,72,überfällig,
